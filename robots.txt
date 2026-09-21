@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://limova-dev.github.io/sitemap.xml
